@@ -1,0 +1,2 @@
+# core
+campsi core library
