@@ -8,5 +8,8 @@
     "extend": "*",
     "is-browser": "*",
     "cheerio-or-jquery": "*"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
   }
 }
